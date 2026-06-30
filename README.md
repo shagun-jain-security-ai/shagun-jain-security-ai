@@ -13,7 +13,7 @@ Lead Security Engineer with **7+ years of experience** designing and building se
 * Security Automation
 * Attack Path Analyser
 * Security Graph/Risk Visualisation
-* AI Threat Modeling Assistant
+* AI Threat Modelling Assistant
 
 
 ---
@@ -43,13 +43,11 @@ Lead Security Engineer with **7+ years of experience** designing and building se
 
 Detect SaaS misconfigurations, assess risk, and generate AI-powered remediation guidance.
 
-### AI Attack Path Analyzer
-
-Graph-based attack path discovery and visualization for enterprise environments.
-
 ### Identity Risk Analyzer
 
-Analyze IAM permissions, privileged identities, and attack paths.
+### AI-powered Attack Path Visualisation
+
+### AI Threat Modelling Assistant
 
 
 ---
