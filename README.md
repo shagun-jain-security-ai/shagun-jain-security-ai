@@ -1,8 +1,6 @@
 # Hi, I'm Shagun Jain 👋
 
-Lead Security Engineer with **7+ years of experience** designing and building security solutions across **Cloud Security, Identity Security, SaaS Security, Endpoint Security, and AI Security**.
-
-I'm passionate about applying AI to solve real cybersecurity problems—from security posture management and attack path analysis to security copilots and automated investigations.
+Lead Security Engineer with **7+ years of experience** designing and building security solutions across **Cloud Security, Identity Security, SaaS Security, Endpoint Security, and AI Security** and passionate about applying AI to solve real cybersecurity problems.
 
 
 ---
@@ -15,66 +13,41 @@ I'm passionate about applying AI to solve real cybersecurity problems—from sec
 * Security Automation
 * Attack Path Analyser
 * Security Graph/Risk Visualisation
-* AI Threat Modeling Assistant
+* AI Threat Modelling Assistant
+
+
+---
+
+## 🌟 Open Source
+
+**Maintainer / Contributor** at [Cvent Open Source](https://github.com/cvent)
 
 
 ---
 
 ## 🛠 Technologies & Tools
 
-### Programming
-
-* Python
-
-### Cloud & Infrastructure
-
-* AWS
-* Chef
-* IaC
-
-### Security
-
-* EDR
-* Logging & Monitoring
-* Cloud Security Posture Management
-* DLP
-* Vulnerability Management
-* AWS Security Services
-* Identity Security
-* SIEM / SOAR
-* DevSecOps
-
-### AI
-
-* OpenAI
-* Claude
-* ChatGPT
+| Category                   | Technologies                                                                                 |
+| -------------------------- | -------------------------------------------------------------------------------------------- |
+| **Programming**            | Python • Ruby                                                                                |
+| **Cloud & Infrastructure** | AWS • Chef • IaC                                                                             |
+| **AI**                     | OpenAI • Claude • MCP • ChatGPT                                                              |
+| **Security**               | EDR • Vulnerability Management • DLP • Logging & Monitoring • AI Security • SOAR • DevSecOps |
 
 
 ---
 
 ## 📌 Featured Projects (Coming Soon)
 
-### AI SaaS Security Posture Management
+### [AI SaaS Security Posture Management]()
 
 Detect SaaS misconfigurations, assess risk, and generate AI-powered remediation guidance.
 
-### AI Attack Path Analyzer
-
-Graph-based attack path discovery and visualization for enterprise environments.
-
 ### Identity Risk Analyzer
 
-Analyze IAM permissions, privileged identities, and attack paths.
+### AI-powered Attack Path Visualisation
 
-
----
-
-## 🌱 Currently Learning
-
-* AI Security
-* Model Context Protocol (MCP)
-* Singlur.ai
+### AI Threat Modelling Assistant
 
 
 ---
@@ -87,4 +60,4 @@ If you find one of my projects useful, please let me know and feel free to open 
 
 ---
 
-> *Building practical security projects that help defenders move faster.*
+> *Building practical security projects that help defenders move faster and yes, AI built this readme for me*
