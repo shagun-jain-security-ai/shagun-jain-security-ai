@@ -18,13 +18,6 @@ Lead Security Engineer with **7+ years of experience** designing and building se
 
 ---
 
-## 🌟 Open Source
-
-**Maintainer / Contributor** at [Cvent Open Source](https://github.com/cvent)
-
-
----
-
 ## 🛠 Technologies & Tools
 
 | Category                   | Technologies                                                                                 |
